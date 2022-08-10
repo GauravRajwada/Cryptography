@@ -5,7 +5,7 @@
 ### Program is to code two functions:
 
 - Encode: this will take an upper-case string, and return the encoded string according to the scheme shown below.
-- Decode: this will take a string encoded as above, and return the decoded string.
+- Decode: this will take a string encoded as below, and return the decoded string.
 
 ### Example
 ![alt text](https://github.com/GauravRajwada/Cryptography/blob/main/example.png)
